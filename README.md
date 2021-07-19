@@ -1,5 +1,5 @@
 # Color space Conversion with Python
 
-Color space (ruang warna) adalah berbagai jenis mode atau lingkup warna yang digunakan dalam pemrosesan gambar, sinyal, dan sistem untuk berbagai tujuan. Beberapa ruang warna yang umum dikenali antara lain: RGB CMYK, HSV, dan lain-lain.
+Color space is the various types of color modes or scopes used in image processing, signals and systems for various purposes. Some of the commonly recognized color space include: RGB CMYK, and HSV.
 
-Repositori ini berisi script atau source code tentang konversi ruang warna secara dasar alias menggunakan perhitungan nilai (angka) piksel. Adapun konversinya meliputi: RGB to CMYK, CMYK to RGB, RGB to Grayscale, Grayscale to RGB, dan lain-lain.
+This repository contains the script or the source code of a basic color space conversion alias using the calculation of the value (number) pixels. The conversions include: RGB to CMYK, CMYK to RGB, RGB to Grayscale, Grayscale to RGB, and others.
